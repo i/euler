@@ -1,4 +1,4 @@
 Project Euler Solutions
 ===
 
-My naive solutions to the problems at [Project Euler](http://projecteuler.net/).
+Solutions to some of the problems at [Project Euler](http://projecteuler.net/).
